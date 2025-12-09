@@ -56,18 +56,18 @@ Description:
 📊 Workflow:  
 
   -User Flow:  
-    -Signup/Login → Profile created.  
-    -Browse pets → View details.  
-    -Add pets to wishlist → Stored per user.  
-    -Request adoption → Status tracked in profile.  
-    
+      -Signup/Login → Profile created.  
+      -Browse pets → View details.  
+      -Add pets to wishlist → Stored per user.  
+      -Request adoption → Status tracked in profile.  
+      
   -Admin Flow:  
-    -Login → Access dashboard.  
-    -View adoption requests → Approve or decline.  
-    -Manage suggested pets → Add or remove pets.  
+      -Login → Access dashboard.  
+      -View adoption requests → Approve or decline.  
+      -Manage suggested pets → Add or remove pets.  
     
   -Data Flow:    
-    -Frontend calls backend APIs → Backend interacts with MongoDB → Responses update frontend UI dynamically.
+      -Frontend calls backend APIs → Backend interacts with MongoDB → Responses update frontend UI dynamically.
 
 🏷️ Summary:
 
